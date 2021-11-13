@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/haynoruqc261374/nginx-code",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
